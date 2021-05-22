@@ -1,0 +1,25 @@
+.header{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.date{
+    font-family: 'Raleway', sans-serif;
+}
+
+.para{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+
+.switch{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: rgba(255,255,255,.5);
+}
+
+.page{
+    height: 500px;
+    border-radius: 0;
+}
+
+
